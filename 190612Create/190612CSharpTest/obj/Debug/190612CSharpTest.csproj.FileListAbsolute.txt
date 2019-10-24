@@ -1,0 +1,7 @@
+J:\Learning\LeetCode\190612Create\190612CSharpTest\bin\Debug\190612CSharpTest.exe.config
+J:\Learning\LeetCode\190612Create\190612CSharpTest\bin\Debug\190612CSharpTest.exe
+J:\Learning\LeetCode\190612Create\190612CSharpTest\bin\Debug\190612CSharpTest.pdb
+J:\Learning\LeetCode\190612Create\190612CSharpTest\obj\Debug\190612CSharpTest.csprojAssemblyReference.cache
+J:\Learning\LeetCode\190612Create\190612CSharpTest\obj\Debug\190612CSharpTest.csproj.CoreCompileInputs.cache
+J:\Learning\LeetCode\190612Create\190612CSharpTest\obj\Debug\190612CSharpTest.exe
+J:\Learning\LeetCode\190612Create\190612CSharpTest\obj\Debug\190612CSharpTest.pdb
